@@ -1,6 +1,3 @@
-# NATO C-UAS Innovation Proposal – Submission for Rapid Prototyping 
-
-
 # 📄 **NATO C-UAS Innovation Proposal – Submission for Rapid Prototyping**
 
 ## **Solution Title:**
