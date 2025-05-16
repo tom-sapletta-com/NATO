@@ -10,7 +10,7 @@
 ---
 
 ## **Submitted by:**
-[Tom Sapletta / Teleomnit, Softreck]  
+[Tom Sapletta / Telemonit, Softreck]  
 
 
 ---
