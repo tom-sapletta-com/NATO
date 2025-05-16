@@ -1,7 +1,6 @@
 # 📄 **NATO C-UAS Innovation Proposal – Submission for Rapid Prototyping**
 
-## **Solution Title:**
-### **Integrated Drone Detection & Disruption System (IDDS)**  
+## **Solution Title:** Integrated Drone Detection & Disruption System (IDDS)
 *A Multi-Sensor Countermeasure for Fiber-Optic-Controlled FPV Drones*
 
 ---
