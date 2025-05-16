@@ -212,8 +212,8 @@ This diagram shows how the system decides which countermeasure to activate.
 graph TD
     Z[Decision Layer Confirmed Drone] --> AA{Distance to Target}
     
-    AA -- <50m --> AB[Ultrasonic Disruptor Activated]
-    AA -- >50m --> AC{Is Visual Contact Available?}
+    AA -- lessThen50m --> AB[Ultrasonic Disruptor Activated]
+    AA -- moreThan50m --> AC{Is Visual Contact Available?}
     
     AC -- Yes --> AD[Laser Blinder Activated]
     AC -- No --> AE[Hold for Closer Engagement]
