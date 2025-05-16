@@ -170,10 +170,10 @@ graph TD
     H -- Yes --> I[Manual Confirmation]
     H -- No --> J[Automatic Engagement]
 
-    I --> J
+    I --> J[Confirm & Engage]
 
     J --> K[Ultrasonic Disruptor]
-    J --> L[Laser Blinder (Optional)]
+    J --> L[Laser Blinder - Optional]
 ```
 
 ---
