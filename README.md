@@ -189,11 +189,11 @@ graph TD
     O --> P[Drone Sound Signature Match?]
     
     Q[Drone Heat Signature] --> R[IR Thermal Camera]
-    R --> S[YOLOv8 / TinyML Detection]
+    R --> S[YOLOv8, TinyML Detection]
     S --> T[Object Classification]
     
     U[Drone Motion] --> V[60 GHz Doppler Radar]
-    V --> W[Speed & Trajectory Estimation]
+    V --> W[Speed, Trajectory Estimation]
     
     P --> X{Any Positive Detection?}
     T --> X
@@ -221,7 +221,7 @@ graph TD
     AB --> AF[IMU Resonance Induced]
     AD --> AG[FPV Camera Blinding]
     
-    AF --> AH[Loss of Control / Crash]
+    AF --> AH[Loss of Control, Crash]
     AG --> AH
 ```
 
