@@ -16,7 +16,7 @@ Founder & CEO, Telemonit
 ORCID: 0009-0000-6327-2810  
 Hardware and Software Developer specializing in Edge Computing  
 Contact: tom.sapletta.com | GitHub: tom-sapletta-com
-+ [Key Physical Principles of Drone Neutralization Technologies](drone-neutralization.html)
++ [Key Physical Principles of Drone Neutralization Technologies](drone-neutralization.pdf)
 
 ---
 
